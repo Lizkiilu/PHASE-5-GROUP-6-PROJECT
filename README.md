@@ -1,5 +1,6 @@
 # Using historical demand, weather, calendar, and macroeconomic data, can we predict future daily electricity demand in Kenya?
-Electricity demand forecasting is critical for power system planning and grid reliability. This project uses daily national electricity demand data from Kenya, combined with weather, calendar, and macroeconomic indicators, to predict future electricity demand. The final model captures seasonal and weather-driven demand patterns and provides a realistic forecasting tool for energy planners.
+Electricity demand forecasting is critical for power system planning and grid reliability. This project uses daily national electricity demand data from Kenya, combined with weather, calendar, and macroeconomic indicators, to predict future electricity demand. 
+The final model captures seasonal and weather-driven demand patterns and provides a realistic forecasting tool for energy planners.
 
 #Rationale (business value)
 ## This prediction is valuable for:
