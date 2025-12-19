@@ -36,15 +36,14 @@ Data Cleaning and EDA
 
 **Weather and macroeconomic relationships**
 
-### Feature Engineering (STRONG)
+### Feature Engineering
 
 * Calendar features (day, week, day of year)
 * Cyclical encoding (month, weekday)
 * Weather variables
 * Macroeconomic variables
 
-### Leakage Prevention (IMPORTANT — ADD TEXT)
-
+### Leakage Prevention 
 Aggregated demand variables derived from the target were removed to prevent target leakage.
 
 ---
@@ -86,7 +85,7 @@ test  = df_model[df["date"] >= split_date]
 
 **Results**
 
-## 6. Modeling (NEXT STEP — REQUIRED)
+## 6. Modeling 
 
 ### Problem Type
 
@@ -96,7 +95,7 @@ Supervised **regression**.
 
 `demand_gwh_daily`
 
-### Baseline Model (REQUIRED)
+### Baseline Model 
 
 * Naive baseline (yesterday = today) **or**
 * Linear Regression
@@ -133,7 +132,7 @@ A model that outperforms the baseline on MAE using a leakage-free time split.
 
 ---
 
-## 8. Deployment (LIGHTWEIGHT — CONCEPTUAL ONLY)
+## 8. Deployment 
 
 **Reporting**
 Results reported via plots, metrics, and feature importance charts.
