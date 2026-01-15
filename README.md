@@ -46,6 +46,15 @@ Canonical yield (t/ha) and 5-year moving average for Crop A, showing long-term p
 
 Canonical yield (t/ha) and 5-year moving average for Crop B, illustrating yield volatility, structural breaks, and gradual recovery over time.
 
+## Relationship between Harvest Area and Production
+<img width="567" height="470" alt="image" src="https://github.com/user-attachments/assets/a69862ec-fdd2-458d-91b7-a998c091be8d" />
+
+Figure 3.0 (Scatter plots of Area vs. Production) confirm strong positive but non-linear relationships among the key agricultural variables.
+## Relationship between Yield and Production
+<img width="567" height="455" alt="image" src="https://github.com/user-attachments/assets/744d572f-2bd9-46e5-a73b-1e2d318418bd" />
+
+Figures 4(Scatter plots of Yield vs. Production) confirm strong positive but non-linear relationships among the key agricultural variables. 
+
 ## Modeling Approach
 
 
